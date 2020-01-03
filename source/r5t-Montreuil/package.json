@@ -1,0 +1,12 @@
+{
+  "name": "r5t-montreuil",
+  "version": "0.0.1",
+  "description": "A codenamed TypeScript logging library.",
+  "main": "dist/Index.js",
+  "types": "dist/Index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Coats",
+  "license": "MIT"
+}
