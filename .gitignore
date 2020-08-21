@@ -1,4 +1,5 @@
 # Custom for us
+dist
 **/ts/**/*.js
 **/ts/**/*.js.map
 **/wwwroot/ts-out/
