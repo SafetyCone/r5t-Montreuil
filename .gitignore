@@ -4,6 +4,9 @@ dist
 **/ts/**/*.js.map
 **/wwwroot/ts-out/
 
+# Specific to Montreuil
+source/r5t-Montreuil/r5t-Montreuil/
+
 
 
 # FROM GITHUB VS defaults
