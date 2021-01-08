@@ -1,0 +1,13 @@
+{
+  "extends": "../../r5t-E0011.Private/source/tsconfig-base.json",
+  "compilerOptions": {
+    "outDir": "output"
+  },
+  "include": [
+    "ts/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}
