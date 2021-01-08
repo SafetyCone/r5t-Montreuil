@@ -1,5 +1,5 @@
 {
-  "extends": "../../r5t-E0011.Private/source/tsconfig-base.json",
+  "extends": "../../r5t-Paris/source/tsconfig-base.json",
   "compilerOptions": {
     "outDir": "output"
   },
