@@ -1,11 +1,12 @@
 # Custom for us
-dist
+output
 **/ts/**/*.js
 **/ts/**/*.js.map
 **/wwwroot/ts-out/
 
-# Specific to Montreuil
-source/r5t-Montreuil/r5t-Montreuil/
+tsconfig.tsbuildinfo
+*.d.ts
+*.d.ts.map
 
 
 
